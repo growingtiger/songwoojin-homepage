@@ -5,6 +5,6 @@
 - [소개·진료 분야·강의·논문·보도](https://songwoojin.co.kr/): 국제학술지 논문 80편 이상(SCIE·Scopus), 학회 발표 60건 이상, 초청 강연 40건 이상(2026년 6월 기준 병원 제출 프로필)
 
 ## 함께 진료하는 수의사
-- [이태호 — 대표원장](https://leetaeho.vercel.app/)
+- [이태호 — 대표원장](https://leetaeho.co.kr/)
 - [안운찬 — 혈액투석·신장](https://www.ahnwoonchan.com/)
 - [시그니처 동물의료센터](https://signatureamc.co.kr/)
