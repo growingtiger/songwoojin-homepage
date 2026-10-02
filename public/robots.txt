@@ -4,4 +4,4 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://songwoojin.vercel.app/sitemap.xml
+Sitemap: https://songwoojin.co.kr/sitemap.xml

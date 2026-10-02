@@ -4,7 +4,7 @@
 이태호(`~/leetaeho-homepage`)·안운찬(`~/ahn-woonchan-homepage`) 홈페이지와 같은 구조(정적 HTML 1장, Vercel 배포)다.
 
 - 배포: GitHub `growingtiger/songwoojin-homepage` → Vercel 자동 배포 (`git push`)
-- 공개 주소: https://songwoojin.vercel.app
+- 공개 주소: https://songwoojin.co.kr (2026-10-02 도메인 연결; songwoojin.vercel.app과 www는 영구 리다이렉트)
 
 ## 구조
 
