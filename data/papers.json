@@ -1,5 +1,27 @@
 [
  {
+  "pmid": "43019038",
+  "year": 2026,
+  "journal": "Vet Med Sci",
+  "volume": "12",
+  "issue": "6",
+  "pages": "e71307",
+  "doi": "10.1002/vms3.71307",
+  "title": "Acute Levothyroxine Overdose Followed by Serial Monitoring of Total Thyroxine and Thyroid-Stimulating Hormone in a Hypothyroid Dog",
+  "authors": [
+   "Park S",
+   "Seo J",
+   "Lee T",
+   "Ahn W",
+   "Song WJ",
+   "Nam A"
+  ],
+  "src": "pubmed",
+  "me_index": 4,
+  "n": 6,
+  "role": "co"
+ },
+ {
   "pmid": "",
   "year": 2026,
   "journal": "J Vet Clin",
